@@ -35,4 +35,5 @@
         {name = "FISSION REACTOR", inputName = "fission", code = {20,6,14,32,24,25,27,29,0},page = 3},
         {name = "DRAK'S BASE", inputName = "drak", code = {31,34,9,33,5,7,25,23,0},page = 3},
         {name = "LUNA & SCOUT'S BASE", inputName = "scout", code = {9,2,30,15,21,5,14,16,0},page = 3},
+        {name = "ABCDE", inputName = "abc", code = {1,2,0},page = 3},
 }
