@@ -21,7 +21,7 @@
         {name = "DOUM'S BASE", inputName = "doum", code = {8,1,6,26,21,12,30,25,0},page = 2},
         {name = "JAJA'S BASE", inputName = "jaja", code = {26,35,15,28,33,1,8,22,0},page = 2},
         {name = "KURO'S BASE", inputName = "kuro", code = {31,34,22,24,17,20,19,23,0},page = 2},
-        {name = "RF GATE", inputName = "rfGate", code = {5,33,6,35,1,24,10,16,0},page = 2},
+        {name = "RF GATE", inputName = "rfGate", code = {13,6,1,10,3,24,18,26,0},page = 2},
         {name = "ASPECT'S BASE", inputName = "aspect", code = {4,20,5,3,27,15,8,18,0},page = 3},
         {name = "ABYDOS OUTPOST", inputName = "outpost", code = {3,12,29,10,14,19,33,32,0},page = 4},
         {name = "DESTINY", inputName = "destiny", code = {28,25,14,35,16,31,19,10,0},page = 4},
